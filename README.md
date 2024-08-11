@@ -1,7 +1,4 @@
-- 👋 Hi, I’m *@ravengal aka Brooke/Xóchitl*
+# Welcome!
 - 👀 I’m interested in *too many things*
 - 🌱 I’m currently learning *javascript*
-- 📫 How to reach me *mostly discord @ravengalqueen*
 - 🖥️ I can currently code in *Java, html, css, and a little javascript*
-- 😄 Pronouns: she/her :transgender_flag:	
-- ⚡ Fun fact: having 6 fingers is a dominant gene
